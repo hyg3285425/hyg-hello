@@ -1,1 +1,1 @@
-hyg-hello
+hyg-hello-1.0
